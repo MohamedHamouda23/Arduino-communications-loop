@@ -10,6 +10,7 @@ This project was originally developed as part of a university assignment at the 
 
 👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
 
+<br>
 
 # 🔆 Optical Communication & Sensor Control System Using Arduino Uno R3
 
@@ -34,7 +35,6 @@ Alongside the core optical communication, two additional sensor-based subsystems
 
 ### 🛠️ Hardware Components
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 | Component               | Quantity | Notes                                 |
 |------------------------|----------|----------------------------------------|
 | Arduino Uno R3         | 1        | Main controller                        |
@@ -50,13 +50,11 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 | USB Cable              | 1        | For power and data                     |
 | Resistors              | 3        | 2 × 220Ω, 1 × 100kΩ                    |
 | Straw (optional)       | 1        | To focus LED light                     |
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
 
 ## 🧱 Message Format (9 Bytes)
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 | Byte Index | Description                      | Value / Notes                                                      |
 |------------|----------------------------------|--------------------------------------------------------------------|
 | 0          | **Start Byte**                   | `0x70` (Start of message)                                          |
@@ -69,7 +67,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 | 7          | **Sensor D (Unused)**            | Always `0`                                                         |
 | 8          | **(Reserved)**                   | Always `0` (optional placeholder)                                  |
 | 9          | **Stop Byte**                    | `0x71` (End of message)                                            |
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
 
 > ⚠️ **Note**: The message format includes unused bytes, which introduces inefficiency. This structure was implemented to meet university assignment requirements. 📚
 
