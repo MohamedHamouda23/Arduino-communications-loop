@@ -40,10 +40,12 @@ These components collectively demonstrate a multifunctional system combining opt
 - 🔌 USB cable  
 - 🎚️ Potentiometer  
 - ⚡ Resistors:  
-  - 2 × 220 Ω  
-  - 1 × 100k Ω  
+- 2 × 220 Ω  
+- 1 × 100k Ω  
 - 🥤 Optional: Straw for LED focusing
+
 - 
+  
 
 | Byte Index | Description                      | Value / Notes                                                      |
 | ---------- | -------------------------------- | ------------------------------------------------------------------ |
