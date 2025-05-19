@@ -44,7 +44,14 @@ These components collectively demonstrate a multifunctional system combining opt
 - 1 × 100k Ω  
 - 🥤 Optional: Straw for LED focusing
 
-- 
+  # 📸 Real-life Arduino Setup
+
+Here is a photo of the actual Arduino setup used in this project, featuring the photoresistor and LED wiring. ⚡️🔆
+
+![Arduino Setup](images/arduino_setup.png)
+
+
+
   
 
 | Byte Index | Description                      | Value / Notes                                                      |
