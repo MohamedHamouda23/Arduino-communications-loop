@@ -48,7 +48,7 @@ These components collectively demonstrate a multifunctional system combining opt
 
 Here is a photo of the actual Arduino setup used in this project, featuring the photoresistor and LED wiring. ⚡️🔆
 
-![Arduino Setup](images/hardware_setup.png)
+![Arduino Setup](hardware_setup.png)
 
 
 
