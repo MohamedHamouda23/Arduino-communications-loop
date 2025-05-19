@@ -87,7 +87,7 @@ Below is an image of the actual Arduino hardware setup used in this project:
 
 To recreate or expand this project:
 
-1. Follow the wiring diagrams and hardware list. Reference diagrams to help replicate the project can be found in the [`diagrams`](./diagrams/) folder.
+1. Follow the wiring diagrams and hardware list. Reference diagrams to help replicate the project can be found in the [`diagrams`](circuit-diagrams/) folder.
 2. Write Arduino code to process incoming signals, control the fan, and display sensor data.
 
 
