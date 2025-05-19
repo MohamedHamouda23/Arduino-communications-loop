@@ -33,4 +33,44 @@ The core of the project is an **optical communications system** where an LED tra
 
 
 
+<br>
+
+## 🚀 How to Run
+
+### Step 1: **⚠️ Important: You must clone this repository first before doing anything else!**
+**🔄 Clone this repository**
+```bash
+https://github.com/MohamedHamouda23/Arduino-communications-loop
+```
+
+🚀 Arduino Communications Loop
+A seamless communication loop between Arduino input/output devices
+
+🛠️ Setup & Run Instructions
+
+Step 1: ⚙️ Clone the Repository
+
+Before starting, clone this repository to your local machine:
+
+bash
+git clone https://github.com/MohamedHamouda23/Arduino-communications-loop.git
+
+Step 2: 🔌 Prepare Your Hardware
+
+
+Step 3: 💻 Open the Code in Arduino IDE
+
+Launch the Arduino IDE.
+Open main.ino (File > Open).
+Select your Arduino board (Tools > Board).
+Choose the correct COM port (Tools > Port).
+Step 4: ⬆️ Upload the Code
+
+Click the Upload (✓) button, OR
+Press Ctrl + U (Windows/Linux) or Cmd + U (Mac) to compile & upload.
+Step 5: 📡 Open Serial Monitor
+
+
+
+
 
